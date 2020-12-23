@@ -1,6 +1,5 @@
 import java.util.*;
 
-//4, 7, 8, 9, 10, 11
 public class CrainDoll {
     public static void main(String[] args) {
         int[][] board = {
