@@ -1,5 +1,6 @@
 public class MakeStrangeStr {
 
+    //프로그래머스 level1 이상한 문자 만들기
     public static void main(String[] args)
     {
         String s = "try hello world";
