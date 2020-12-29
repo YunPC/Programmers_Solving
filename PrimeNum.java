@@ -1,4 +1,6 @@
 public class PrimeNum {
+
+    //프로그래머스 문제풀이 level1 소수 찾기
     
     public static void main(String[] args)
     {
