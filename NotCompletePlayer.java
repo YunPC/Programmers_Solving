@@ -2,6 +2,8 @@ import java.util.*;
 
 public class NotCompletePlayer {
 
+    //프로그래머스 문제풀이 level1 완주하지 못한 선수
+
     public static void main(String[] args)
     {
         String[] participant = {"leo", "kiki", "eden"};

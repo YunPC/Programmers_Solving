@@ -2,6 +2,7 @@ import java.util.*;
 
 public class GymSuit {
 
+    //프로그래머스 문제풀이 level1 체육복
     public static void main (String[] args)
     {
         int n = 5;

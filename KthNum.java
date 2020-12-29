@@ -2,6 +2,7 @@ import java.util.*;
 
 public class KthNum {
     
+    //프로그래머스 문제풀이 level1 k번째 수
     public static void main(String[] args)
     {
         int[] array = {1, 5, 2, 6, 3, 7, 4};

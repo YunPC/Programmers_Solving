@@ -2,6 +2,8 @@ import java.util.*;
 
 public class Test {
 
+    //프로그래머스 문제풀이 level1 모의고사
+
     public static void main(String[] args)
     {
         int[] answers = {1,2,3,4,5};

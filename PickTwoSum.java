@@ -2,6 +2,8 @@ import java.util.*;
 
 public class PickTwoSum {
 
+    //프로그래머스 문제풀이 level1 두 수의 합 구하기
+
     public static void main(String[] args)
     {
         int[] numbers = {2, 1, 3, 4, 1};

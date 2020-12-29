@@ -1,5 +1,6 @@
 public class CntpCnty {
     
+    //프로그래머스 문제풀이 level1 문자열 내 p와 y의 개수
     public static void main(String[] args)
     {
         String s = "pPoooyY";

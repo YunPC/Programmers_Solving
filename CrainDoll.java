@@ -1,6 +1,8 @@
 import java.util.*;
 
 public class CrainDoll {
+
+    //프로그래머스 문제풀이 level1 크레인 인형뽑게 게임
     public static void main(String[] args) {
         int[][] board = {
             {0,0,0,0,0},{0,0,1,0,3},{0,2,5,0,1},{4,2,4,4,2},{3,5,1,3,1}

@@ -2,6 +2,7 @@ import java.util.*;
 
 public class NoSameNum {
 
+    //프로그래머스 문제풀이 level1 같은 숫자는 싫어
     public static void main(String[] args)
     {
         int[] arr = {1,1,3,3,0,1,1};

@@ -2,6 +2,7 @@ import java.util.*;
 
 public class Flip3Digit {
     
+    //프로그래머스 문제풀이 level1 3진법 뒤집기
     public static void main(String[] args)
     {
         int n = 45;

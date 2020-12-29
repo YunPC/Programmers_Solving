@@ -1,5 +1,6 @@
 public class Year2016 {
 
+    //프로그래머스 문제풀이 level1 2016
     public static void main(String[] args)
     {
         int a = 1;

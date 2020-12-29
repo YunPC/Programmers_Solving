@@ -1,5 +1,7 @@
 public class SeoulKim {
 
+    //프로그래머스 문제풀이 level1 서울에서 김서방 찾기
+
     public static void main(String[] args)
     {
         String[] seoul = {"Jane", "Kim"};

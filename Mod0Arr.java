@@ -2,6 +2,8 @@ import java.util.*;
 
 public class Mod0Arr {
 
+    //프로그래머스 문제풀이 level1 나누어 떨어지는 수
+
     public static void main(String[] args)
     {
         int[] arr = {5, 9, 7, 10};
