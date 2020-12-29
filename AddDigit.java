@@ -1,5 +1,6 @@
 public class AddDigit {
 
+    //프로그래머스 문제 풀이 level1 자릿수 더하기
     public static void main(String[] args)
     {   
         int n = 123;
