@@ -34,15 +34,7 @@ public class SecretMap {
                 code2[j] = Integer.parseInt(String.valueOf(code2_char[k]));
                 k++;
             }
-            StringBuffer buff = new StringBuffer();
-            for(int j = 0; j < n; j++)
-            {
-                if(code1[j] == 1 || code2[j] == 1)
-                    buff.append("#");
-                else
-                    buff.append(" ");
-            } 
-            answer[i] = buff.toString();
+           
         }
     }
 }
