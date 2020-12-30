@@ -3,7 +3,7 @@ public class CollatzGuess {
     //프로그래머스 문제풀이 level1 콜라스 추측
     public static void main(String[] args)
     {
-        int n = 6;
+        int num = 6;
         int answer = 0;
         int cnt = 0;
         long ll = num;
