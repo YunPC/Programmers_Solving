@@ -1,5 +1,6 @@
 public class KeyPad {
 
+    //프로그래머스 문제 풀이 level1 키패드 누르기
     public static void main(String[] args)
     {
         int[] numbers = {1, 3, 4, 5, 8, 2, 1, 4, 5, 9, 5};
