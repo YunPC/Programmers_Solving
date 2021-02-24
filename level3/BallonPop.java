@@ -12,16 +12,13 @@ public class BallonPop {
         left[0] = a[0];
         right[a.length-1] = a[a.length-1];
 
-        //left중에 최소값을 찾자
         for(int i = 1; i < a.length; i++)
             left[i] = left[i-1] > a[i] ? a[i] : left[i-1];
 
-        //right중에 최소값을 찾자
         for(int i = a.length-2; i >= 0; i--)
             right[i] = right[i+1] > a[i] ? a[i] : right[i+1];
         
         int answer = 0;
-        //only one max!
         for(int i = 0; i < a.length; i++)
             answer = (left[i] < a[i]) && (right[i] < a[i]) ? answer : answer+1;
         
