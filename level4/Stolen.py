@@ -12,3 +12,5 @@ def solution(money):
         dp2[i] = max(dp2[i-1], money[i]+dp2[i-2])
     
     return max(dp1[-1], dp2[-1])
+
+print(solution([1, 2, 3, 1]))
